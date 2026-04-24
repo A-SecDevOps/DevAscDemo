@@ -10,7 +10,7 @@ def main():
     Main function of the script.
     """
     print("Hello, World!")
-    print("welcome to DevAsc!")
+    print("Welcome to DevAsc!")
     # Add your code here
 
 if __name__ == "__main__":
